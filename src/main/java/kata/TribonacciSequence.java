@@ -3,6 +3,9 @@ package kata;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+/**
+ * Tribonacci Sequence - /kata/556deca17c58da83c00002db
+ */
 class TribonacciSequence {
 
     static double[] tribonacci(double[] s, int n) {
